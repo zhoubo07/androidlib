@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.zhoubo07.androidlib</groupId>
+  <artifactId>dy-annotation-api</artifactId>
+  <versioning>
+    <release>1.0.0</release>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20190705014447</lastUpdated>
+  </versioning>
+</metadata>
